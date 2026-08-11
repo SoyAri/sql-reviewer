@@ -1,0 +1,16 @@
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Salidas de ejecución de pruebas (los reportes se transcriben dentro de tests/*.md)
+*.log
+out/
+tmp/
